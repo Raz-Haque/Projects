@@ -10,12 +10,16 @@ Includes clinical and demographic features such as:
 - Survival Months, Mortality Status
 
 The Models used were:
+
 "Classification"
+
 - Logistic Regression
 - KNN
 - Naive Bayes
 - Ensemble (Soft Voting combining Logistic Regression and NB)
+
 "Regression"
+
 -Decision Tree Regressor
 
 📈 Results
