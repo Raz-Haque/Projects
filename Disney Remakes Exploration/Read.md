@@ -6,7 +6,6 @@ It applies Natural Language Processing (NLP) techniques to extract insights abou
 
 📂 Contents
 - `disney_remake_nlp_exploration.py` – Main Python script for data processing, sentiment analysis, topic modelling, and visualisation.
-- `data` – Folder for storing raw and processed Reddit comment datasets.
 - `Disney_remake_exploration_plots.pdf` – Generated visualisations from analysis and model implementation.
 - `README.md` – Project documentation.
 
